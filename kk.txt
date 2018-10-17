@@ -1,0 +1,7 @@
+void stup (){
+pinMode (5,INPUT);
+}
+
+void loop(){
+
+}
